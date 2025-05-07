@@ -4,6 +4,10 @@
   "displayName": "Partly Cloudy",
   "description": "A middle theme between dark and light",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shawnmcpeek/partlycloudytheme"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
