@@ -1,0 +1,22 @@
+{
+  "name": "partly-cloudy",
+  "publisher": "DaddooDev",
+  "displayName": "Partly Cloudy",
+  "description": "A middle theme between dark and light",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Partly Cloudy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Partly Cloudy-color-theme.json"
+      }
+    ]
+  }
+}
